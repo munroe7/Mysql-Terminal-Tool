@@ -1,0 +1,6 @@
+{ 
+	"enabled": true,
+	"username" : "database_username",
+	"password": "database_password",
+	"database": "database_name"
+}

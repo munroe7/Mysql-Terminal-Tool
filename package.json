@@ -1,0 +1,12 @@
+{
+  "name": "Blessed-Mysql",
+  "version": "0.0.1",
+  "description": "Terminal tool for mysql",
+  "author": "Sam Munroe",
+  "license": "MIT",
+  "dependencies":
+  {
+    "blessed": "0.1.81",
+    "Mysql-Assistant": "0.0.7"
+  }
+}
