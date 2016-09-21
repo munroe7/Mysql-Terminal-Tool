@@ -50,9 +50,10 @@ Conditionals must match one of the following: <, >, <=, >=, =
 
 ## Built With
 
-* blessed
-* mysql
-* mysql-assistant
+* Node.js
+* blessed (npm)
+* mysql (npm)
+* mysql-assistant (npm)
 
 
 ## Authors
