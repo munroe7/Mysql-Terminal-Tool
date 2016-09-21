@@ -41,9 +41,9 @@ When creating a database entry, the user can enter a value into one or more of t
 
 When removing database entries, the user must follow these rules:
 
-Multiple columns can have conditionals and values
-If a column has a conditional then it must have a value or vise vera
-Conditionals must match one of the following: <, >, <=, >=, =
+* You can fill in a conditonal and value for multiple columns
+* If a column has a conditional then it must have a value or vise vera
+* Conditionals must match one of the following: <, >, <=, >=, =
 
 ![](https://raw.githubusercontent.com/munroe7/Mysql-Terminal-Tool/master/img/removal.gif)
 
