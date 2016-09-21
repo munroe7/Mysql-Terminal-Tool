@@ -4,6 +4,10 @@
   "description": "Terminal tool for mysql",
   "author": "Sam Munroe",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munroe7/Mysql-Terminal-Tool"
+  },
   "dependencies":
   {
     "blessed": "0.1.81",
